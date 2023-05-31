@@ -1,0 +1,215 @@
+﻿continentExp;countriesAndTerritories;Mín. de popData2019; cases ;deaths;% obesidad
+Africa;South Africa; 58.558.267 ; 860.964 ;23276;51,9
+Africa;Morocco; 36.471.766 ; 399.609 ;6624;59,5
+Africa;Egypt; 100.388.076 ; 121.575 ;6920;61,9
+Africa;Ethiopia; 112.078.727 ; 116.769 ;1806;18,1
+Africa;Tunisia; 11.694.721 ; 111.361 ;3894;62,2
+Africa;Algeria; 43.053.054 ; 92.102 ;2596;60,7
+Africa;Kenya; 52.573.967 ; 91.892 ;1587;22,6
+Africa;Libya; 6.777.453 ; 90.779 ;1299;65,7
+Africa;Nigeria; 200.963.603 ; 73.175 ;1197;26
+Africa;Ghana; 30.417.858 ; 53.014 ;327;29,3
+Africa;Uganda; 44.269.587 ; 27.532 ;221;19
+Africa;Cameroon; 25.876.387 ; 25.143 ;443;29,7
+Africa;Cote dIvoire; 25.716.554 ; 21.680 ;133;28,7
+Africa;Sudan; 42.813.237 ; 21.386 ;1347;0
+Africa;Zambia; 17.861.034 ; 18.274 ;367;23,9
+Africa;Madagascar; 26.969.306 ; 17.638 ;258;21,1
+Africa;Senegal; 16.296.362 ; 17.075 ;349;24,9
+Africa;Mozambique; 30.366.043 ; 16.954 ;142;23,1
+Africa;Namibia; 2.494.524 ; 16.536 ;160;36,6
+Africa;Angola; 31.825.299 ; 16.188 ;371;23,9
+Africa;Democratic Republic of the Congo; 86.790.568 ; 14.512 ;355;22,1
+Africa;Guinea; 12.771.246 ; 13.420 ;79;23,8
+Africa;Botswana; 2.303.703 ; 12.501 ;37;38,4
+Africa;Cape Verde; 549.936 ; 11.357 ;110;32,1
+Africa;Zimbabwe; 14.645.473 ; 11.246 ;307;32,4
+Africa;Mauritania; 4.525.698 ; 10.780 ;222;31,5
+Africa;Gabon; 2.172.578 ; 9.330 ;63;36,9
+Africa;Eswatini; 1.148.133 ; 6.768 ;127;33
+Africa;Rwanda; 12.626.938 ; 6.659 ;56;22
+Africa;Malawi; 18.628.749 ; 6.066 ;187;20,1
+Africa;Congo; 5.380.504 ; 6.049 ;99;28,1
+Africa;Mali; 19.658.023 ; 5.814 ;194;24,4
+Africa;Djibouti; 973.557 ; 5.728 ;61;35,7
+Africa;Equatorial Guinea; 1.355.982 ; 5.185 ;85;25,1
+Africa;Central African Republic; 4.745.179 ; 4.936 ;63;23,2
+Africa;Somalia; 15.442.906 ; 4.579 ;121;24,7
+Africa;Burkina Faso; 20.321.383 ; 4.030 ;71;20
+Africa;Gambia; 2.347.696 ; 3.782 ;123;27,9
+Africa;Togo; 8.082.359 ; 3.251 ;66;25
+Africa;South Sudan; 11.062.114 ; 3.206 ;62;0
+Africa;Benin; 11.801.151 ; 3.090 ;44;26,3
+Africa;Guinea Bissau; 1.920.917 ; 2.444 ;44;26,9
+Africa;Sierra Leone; 7.813.207 ; 2.440 ;75;24,9
+Africa;Niger; 23.310.719 ; 2.258 ;80;19,7
+Africa;Lesotho; 2.125.267 ; 2.250 ;44;33,2
+Africa;Chad; 15.946.882 ; 1.770 ;102;19,5
+Africa;Liberia; 4.937.374 ; 1.676 ;83;27,8
+Africa;Sao Tome and Principe; 215.048 ; 1.009 ;17;31,6
+Africa;Western Sahara; 582.458 ; 766 ;1;0
+Africa;Burundi; 11.530.577 ; 729 ;1;19,3
+Africa;Eritrea; 3.497.117 ; 711 ;0;19,2
+Africa;Comoros;850891; 628 ;7;24,8
+Africa;Mauritius;1269670; 515 ;10;33,8
+Africa;United Republic of Tanzania;58005461; 509 ;21;24,5
+Africa;Seychelles;97741; 187 ;0;38,1
+America;United States of America; 329.064.917 ; 16.256.754 ;299177;70,2
+America;Brazil; 211.049.519 ; 6.901.952 ;181402;56,9
+America;Argentina; 44.780.675 ; 1.498.160 ;40766;63,4
+America;Colombia; 50.339.443 ; 1.425.774 ;39053;58,6
+America;Mexico; 127.575.529 ; 1.250.044 ;113953;64,1
+America;Peru; 32.510.462 ; 984.973 ;36677;56,3
+America;Chile; 18.952.035 ; 571.919 ;15886;64,4
+America;Canada; 37.411.038 ; 460.743 ;13431;67,5
+America;Ecuador; 17.373.657 ; 202.110 ;13875;54,9
+America;Panama; 4.246.440 ; 193.007 ;3356;58,5
+America;Dominican Republic; 10.738.957 ; 154.692 ;2361;59,9
+America;Costa Rica; 5.047.561 ; 150.947 ;1895;61,5
+America;Bolivia; 11.513.102 ; 147.150 ;9018;53,2
+America;Guatemala; 17.581.476 ; 129.282 ;4423;51,4
+America;Honduras; 9.746.115 ; 114.359 ;2975;51,9
+America;Venezuela; 28.515.829 ; 107.177 ;949;62,6
+America;Puerto Rico; 2.933.404 ; 107.158 ;1272;0
+America;Paraguay; 7.044.639 ; 93.582 ;1953;50,9
+America;El Salvador; 6.453.550 ; 41.880 ;1205;56,8
+America;Jamaica; 2.948.277 ; 11.710 ;273;55
+America;Uruguay; 3.461.731 ; 9.708 ;92;64,5
+America;Haiti; 11.263.079 ; 9.565 ;234;51,1
+America;Cuba; 11.333.484 ; 9.423 ;137;62,2
+America;Belize; 390.351 ; 9.295 ;195;51,8
+America;Bahamas; 389.486 ; 7.674 ;163;65,2
+America;Trinidad and Tobago; 1.394.969 ; 6.879 ;122;48,1
+America;Guyana; 782.775 ; 5.920 ;155;47,5
+America;Nicaragua; 6.545.503 ; 5.887 ;162;54,8
+America;Suriname; 581.363 ; 5.353 ;117;59
+America;Aruba; 106.310 ; 5.049 ;46;0
+America;CuraÃ§ao; 163.423 ; 3.624 ;11;0
+America;United States Virgin Islands; 104.579 ; 1.807 ;23;0
+America;Sint Maarten; 42.389 ; 1.232 ;26;0
+America;Turks and Caicos islands; 38.194 ; 769 ;6;0
+America;Bermuda;62508; 431 ;9;0
+America;Cayman Islands;64948; 298 ;2;0
+America;Barbados;287021; 292 ;7;55,3
+America;Saint Lucia;182795; 275 ;4;48,3
+America;Bonaire, Saint Eustatius and Saba;25983; 173 ;3;0
+America;Antigua and Barbuda;97115; 148 ;4;48,4
+America;Saint Vincent and the Grenadines;110593; 98 ;0;55
+America;Dominica;71808; 87 ;0;60,7
+America;British Virgin Islands;30033; 76 ;1;0
+America;Grenada;112002; 69 ;0;49,4
+America;Saint Kitts and Nevis;52834; 27 ;0;52,7
+America;Falkland Islands (Malvinas);3372; 19 ;0;0
+America;Greenland;56660; 19 ;0;0
+America;Montserrat;4991; 13 ;1;0
+America;Anguilla;14872; 10 ;0;0
+Asia;India; 1.366.417.756 ; 9.884.100 ;143355;19,3
+Asia;Iran; 82.913.893 ; 1.108.269 ;52196;60,9
+Asia;Indonesia; 270.625.567 ; 617.820 ;18819;28,3
+Asia;Iraq; 39.309.789 ; 574.634 ;12579;59,8
+Asia;Bangladesh; 163.046.173 ; 490.533 ;7052;19
+Asia;Philippines; 108.116.622 ; 449.400 ;8733;26,1
+Asia;Pakistan; 216.565.317 ; 440.787 ;8832;26,2
+Asia;Saudi Arabia; 34.268.529 ; 359.888 ;6048;69
+Asia;Israel; 8.519.373 ; 357.859 ;2999;65,3
+Asia;Jordan; 10.101.697 ; 259.614 ;3365;66,5
+Asia;Nepal; 28.608.715 ; 248.423 ;1698;19,6
+Asia;Kazakhstan; 18.551.428 ; 186.277 ;2552;53,9
+Asia;United Arab Emirates; 9.770.526 ; 184.949 ;617;65,9
+Asia;Japan; 126.860.299 ; 179.653 ;2585;29,4
+Asia;Lebanon; 6.855.709 ; 146.520 ;1200;66,9
+Asia;Kuwait; 4.207.077 ; 146.218 ;911;72,1
+Asia;Qatar; 2.832.071 ; 140.961 ;240;70,3
+Asia;Oman; 4.974.992 ; 126.240 ;1471;56
+Asia;Palestine; 4.981.422 ; 124.657 ;1079;26,2
+Asia;Myanmar; 54.045.422 ; 108.342 ;2268;24,6
+Asia;China; 1.433.783.692 ; 91.994 ;4739;33,8
+Asia;Bahrain; 1.641.164 ; 89.143 ;348;64,4
+Asia;Malaysia; 31.949.789 ; 83.475 ;415;41,7
+Asia;Kyrgyzstan; 6.415.851 ; 77.674 ;1312;45,8
+Asia;Uzbekistan; 32.981.715 ; 75.094 ;612;45,7
+Asia;Singapore; 5.804.343 ; 58.320 ;29;33,6
+Asia;Afghanistan; 38.041.757 ; 49.273 ;1971;19,7
+Asia;South Korea; 51.225.321 ; 43.484 ;587;32,1
+Asia;Sri Lanka; 21.323.734 ; 32.790 ;152;24,2
+Asia;Maldives; 530.957 ; 13.368 ;48;28,5
+Asia;Tajikistan; 9.321.023 ; 12.704 ;88;41,7
+Asia;Syria; 17.070.132 ; 9.166 ;518;57,9
+Asia;Thailand; 69.625.581 ; 4.237 ;60;34,7
+Asia;Yemen; 29.161.922 ; 2.083 ;606;42,3
+Asia;Vietnam; 96.462.108 ; 1.397 ;35;18,3
+Asia;Mongolia; 3.225.166 ; 912 ;0;53,9
+Asia;Taiwan; 23.773.881 ; 740 ;7;0
+Asia;Bhutan;763094; 438 ;0;25,4
+Asia;Cambodia;16486542; 359 ;0;20,3
+Asia;Brunei Darussalam;433296; 152 ;3;42,2
+Asia;Laos;7169456; 41 ;0;0
+Asia;Timor Leste;1293120; 31 ;0;17,9
+Europe;Russia; 145.872.260 ; 2.653.928 ;46941;61,1
+Europe;France; 67.012.883 ; 2.376.852 ;57911;62,9
+Europe;United Kingdom; 66.647.112 ; 1.849.403 ;64170;67,2
+Europe;Italy; 60.359.546 ; 1.843.712 ;64520;64,1
+Europe;Spain; 46.937.060 ; 1.730.575 ;47624;67,2
+Europe;Germany; 83.019.213 ; 1.337.078 ;21975;62,8
+Europe;Poland; 37.972.812 ; 1.135.676 ;22864;62,4
+Europe;Turkey; 82.003.882 ; 995.471 ;16199;66,9
+Europe;Ukraine; 43.993.643 ; 900.666 ;15247;61,9
+Europe;Netherlands; 17.282.163 ; 612.746 ;10034;62,6
+Europe;Belgium; 11.455.519 ; 608.001 ;17951;64,1
+Europe;Czechia; 10.649.800 ; 581.079 ;9609;66,7
+Europe;Romania; 19.414.458 ; 556.335 ;13385;61,4
+Europe;Switzerland; 8.544.527 ; 372.329 ;5378;57,9
+Europe;Portugal; 10.276.617 ; 348.744 ;5559;62,3
+Europe;Sweden; 10.230.185 ; 320.098 ;7514;59,9
+Europe;Austria; 8.858.775 ; 320.036 ;4400;58,1
+Europe;Hungary; 9.772.756 ; 283.870 ;7130;65,4
+Europe;Serbia; 6.963.764 ; 266.432 ;2331;60,7
+Europe;Georgia; 3.996.762 ; 191.063 ;1839;57,2
+Europe;Bulgaria; 7.000.039 ; 179.449 ;5688;66,3
+Europe;Croatia; 4.076.246 ; 175.886 ;2640;64,3
+Europe;Azerbaijan; 10.047.719 ; 175.874 ;1922;53,5
+Europe;Belarus; 9.452.409 ; 160.295 ;1263;62,9
+Europe;Armenia; 2.957.728 ; 148.682 ;2503;55,7
+Europe;Slovakia; 5.450.421 ; 132.984 ;1175;59,7
+Europe;Moldova; 4.043.258 ; 126.518 ;2572;54,1
+Europe;Greece; 10.724.599 ; 124.534 ;3625;67,1
+Europe;Denmark; 5.806.081 ; 109.758 ;941;59,2
+Europe;Bosnia and Herzegovina; 3.300.998 ; 101.117 ;3336;56,4
+Europe;Slovenia; 2.080.908 ; 96.314 ;1459;60,7
+Europe;Lithuania; 2.794.184 ; 95.021 ;825;62,9
+Europe;Ireland; 4.904.240 ; 76.185 ;2124;63,6
+Europe;North Macedonia; 2.077.132 ; 73.638 ;2121;60,9
+Europe;Albania; 2.862.427 ; 48.530 ;1003;58,7
+Europe;Kosovo; 1.798.506 ; 46.580 ;1198;0
+Europe;Montenegro; 622.182 ; 41.426 ;582;62,3
+Europe;Luxembourg; 613.894 ; 41.272 ;396;61,7
+Europe;Norway; 5.328.212 ; 40.022 ;387;61,7
+Europe;Finland; 5.517.919 ; 30.810 ;453;62,5
+Europe;Latvia; 1.919.968 ; 25.675 ;349;61,7
+Europe;Estonia; 1.324.820 ; 18.055 ;149;60,4
+Europe;Cyprus; 875.899 ; 15.101 ;78;60,8
+Europe;Malta; 493.559 ; 11.101 ;166;70
+Europe;Andorra; 76.177 ; 7.338 ;79;68,1
+Europe;Iceland; 356.991 ; 5.557 ;28;61,5
+Europe;San Marino; 34.453 ; 1.947 ;51;0
+Europe;Jersey; 107.796 ; 1.779 ;32;0
+Europe;Liechtenstein; 38.378 ; 1.514 ;18;0
+Europe;Gibraltar; 33.706 ; 1.075 ;5;0
+Europe;Monaco;33085; 668 ;2;0
+Europe;Faroe Islands;48677; 528 ;0;0
+Europe;Isle of Man;84589; 370 ;25;0
+Europe;Guernsey;64468; 289 ;13;55,3
+Europe;Holy See;815; 26 ;0;0
+Oceania;Australia; 25.203.200 ; 28.031 ;908;67,2
+Oceania;French Polynesia; 279.285 ; 15.618 ;91;0
+Oceania;Guam; 167.295 ; 7.106 ;118;0
+Oceania;New Zealand; 4.783.062 ; 1.740 ;25;68
+Oceania;Papua New Guinea; 8.776.119 ; 725 ;8;49,3
+Oceania;Northern Mariana Islands;57213; 113 ;2;0
+Oceania;Fiji;889955; 46 ;2;63,4
+Oceania;New Caledonia;282757; 36 ;0;0
+Oceania;Solomon Islands;669821; 17 ;0;51,3
+Oceania;Marshall Islands;58791; 4 ;0;82,7
+Oceania;Wallis and Futuna;; 3 ;0;0
+Oceania;Vanuatu;299882; 1 ;0;54,1
+Other;Cases on an international conveyance Japan;; 696 ;7;0
